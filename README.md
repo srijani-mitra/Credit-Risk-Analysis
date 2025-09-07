@@ -1,8 +1,9 @@
-**# Credit-Risk-Analysis**
+# Credit-Risk-Analysis
+
 **Project Overview**
 This project provides a comprehensive analysis of the bankloans.csv dataset to predict customer loan default. It explores two distinct methodologies for handling missing values in the target variable (default), develops and compares three machine learning models, and begins with a thorough Exploratory Data Analysis (EDA) to uncover underlying patterns in the data. The primary goal is to build a reliable predictive tool that can help financial institutions mitigate credit risk.
 
-1. Exploratory Data Analysis (EDA)
+**1. Exploratory Data Analysis (EDA)**
 Before modeling, an EDA was conducted to understand the relationships between different customer attributes and the likelihood of default. Key visualizations included:
 
 Income and Debt-to-Income Ratio vs. Age: Line plots were used to visualize how income and debt-to-income ratios change across different age groups.

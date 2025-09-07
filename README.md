@@ -53,3 +53,14 @@ Logistic Regression Accuracy: 85.71% in A ,81.43% in B
 Tuned SVM Accuracy: 83.57% in A ,83.57% in B
 
 Random Forest Accuracy: 78.21% in A, and 82.86% in B
+
+7. Comparison of predictions
+Using the test predictions in B, we used the three models to make default predictions on our missing data
+
+Number of rows where all models agree on the prediction: 414
+Number of rows where at least two models disagree on the prediction: 36
+
+Pairwise agreement:
+Logistic Regression and SVM agree on 435 predictions.
+Logistic Regression and Random Forest agree on 420 predictions.
+SVM and Random Forest agree on 423 predictions.

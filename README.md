@@ -54,7 +54,7 @@ Tuned SVM Accuracy: 83.57% in A ,83.57% in B
 
 Random Forest Accuracy: 78.21% in A, and 82.86% in B
 
-7. Comparison of predictions
+**7. Comparison of predictions**
 Using the test predictions in B, we used the three models to make default predictions on our missing data
 
 Number of rows where all models agree on the prediction: 414
